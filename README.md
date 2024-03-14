@@ -1,2 +1,4 @@
-# Exemple-Pages
-Example pages
+
+# Example pages
+
+to help beginners
